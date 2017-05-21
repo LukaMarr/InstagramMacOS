@@ -104,7 +104,7 @@ div.down:hover {
 .green {
 
   background-color: #ebebeb;
-  box-shadow: 2px 4px 4px #eeeeee;
+  /*box-shadow: 2px 4px 4px #eeeeee;*/
   border-radius: 100px;
   transition: all 0.2s ease;
   transform: scale(1);
