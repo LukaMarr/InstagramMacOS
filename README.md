@@ -1,7 +1,9 @@
-# Instagram For Mac
+# Instagram For MacOS 
 Instagram upload-and-view client for MacOS. 📷
 
 App wrapper around [instagram.com](https://instagram.com). Generated with and [nativefier](https://github.com/jiahaog/nativefier).
+
+___
 
 #### You can:
 
@@ -12,9 +14,7 @@ App wrapper around [instagram.com](https://instagram.com). Generated with and [n
 
 At the moment, you can only upload .jpg photos/images. For some reason .png is not supported. 
 
-
-
-
+___
 
 #### Download
 [Download it here!](https://github.com/LukaMarr/)<br>
