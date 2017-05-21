@@ -27,6 +27,6 @@ ___
 
 ![Icon in dock](icon_dock.png)
 
-This is not an official Instagram product. Instagram logo by amazing [Instgram Design](https://dribbble.com/instagram) crew. <br> 
+This is not an official Instagram product. Instagram logo by amazing [Instagram Design](https://dribbble.com/instagram) crew. <br> 
 
 Made with ❤️ & ☕️. 
