@@ -3,7 +3,7 @@ Instagram upload-and-view client for MacOS
 
 App wrapper around [instagram.com](https://instagram.com). Generated with and [nativefier](https://github.com/jiahaog/nativefier).
 
-####You can:
+#### You can:
 
 - [x] Upload photos (.jpg) 
 - [x] Edit profile 
