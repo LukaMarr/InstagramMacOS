@@ -1,10 +1,10 @@
 
 body {
-  background-color: #f2f2f2;
+  background-color: #fff;
     font-family: "Lato";
     font-weight: 300;
     font-size: 16px;
-    color: #555;
+    color: #505050;
     padding-top: 50px;
 
     -webkit-font-smoothing: antialiased;
@@ -31,7 +31,7 @@ p {
 
 /* Links */
 a {
-    color: #3bc492;
+    color: #F4306D;
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -72,13 +72,13 @@ a:after {
    ========================================================================== */
 
 #headerwrap {
-	background-color: #34495e;
+	background-color: #ffffff;
 	padding-top: 60px;
 }
 
 #headerwrap h1 {
 	margin-top: 30px;
-	color: white;
+	color: #222222;
 	font-size: 70px;
 	
 }
