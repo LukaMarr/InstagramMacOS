@@ -18,9 +18,6 @@ ___
 
 [![Alt text](https://github.com/LukaMarr/Instagram-for-MacOS/blob/master/Button.png)](https://github.com/LukaMarr/Instagram-for-MacOS)
 
-![Download](https://github.com/LukaMarr/Instagram-for-MacOS/blob/master/Button.png)
-Format: ![Download Instagram for MacOS](https://github.com/LukaMarr/Instagram-for-MacOS)
-
 ---
 
 #### Download
