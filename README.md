@@ -16,7 +16,7 @@ At the moment, you can only upload .jpg photos/images. For some reason .png is n
 
 ___
 
-![Download](/button.png)
+![Download](button.png)
 Format: ![Download Instagram for MacOS](url)
 
 ---
