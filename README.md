@@ -23,7 +23,7 @@ ___
 #### Download
 [Download it here!](https://github.com/LukaMarr/)<br>
 
-![Instagram for Mac Icon](icon_small.png) <br>
+
 
 ![Icon in dock](icon_dock.png)
 
