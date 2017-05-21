@@ -7,10 +7,12 @@ ___
 
 #### Features:
 
-- [x] Upload photos (.jpg) 
+- [x] Upload photos (.jpg)
+- [x] Resize photo before posting
 - [x] Edit profile 
 - [x] View feed, profile, likes
 - [x] Search users, tags, places
+- [ ] Add filter
 - [ ] Upload multiple photos as photo gallery post
 
 
