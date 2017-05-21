@@ -33,11 +33,144 @@ body {
 
 #avatar {
 	display: inline-block;
-	width: 80px;
-	height: 80px;
+	width: 120px;
+	height: 120px;
 	border-radius: 50%;
 	margin-bottom: 20px;
 }
+
+
+
+
+
+t {
+	vertical-align:middle;
+    text-align:center;
+}
+
+
+
+div.down {
+    width: 180px;
+    height: 40px;
+    font-family:sans-serif;
+    background-color: #ebebeb;
+    
+    margin-left: auto;
+  margin-right: auto;
+    
+    
+    border-radius: 20px;
+}
+
+
+div.down:hover {
+    width: 190px;
+    height: 50px;
+    font-family:sans-serif;
+    background-color: #ebebeb;
+    
+    margin-left: auto;
+  margin-right: auto;
+    
+    
+    border-radius: 25px;
+}
+
+
+
+
+
+
+
+.btn {
+  border-radius: 100px;
+  padding: 15px 55px;
+  font-size: 18px;
+  text-decoration: none;
+  margin: 20px;
+  color: #777;
+  position: relative;
+  display: inline-block;
+}
+
+.btn:active {
+  transform: translate(0px, 5px);
+  -webkit-transform: translate(0px, 5px);
+  box-shadow: 0px 1px 0px 0px;
+}
+
+
+.green {
+
+  background-color: #ebebeb;
+  box-shadow: 2px 4px 4px #eeeeee;
+  border-radius: 100px;
+  transition: all 0.2s ease;
+  transform: scale(1);
+}
+
+.green:hover {
+  background-color: #ebebeb;
+/*  Making button bigger on hover  */
+  transform: scale(1.1) perspective(1px)
+}
+
+
+
+
+
+
+
+
+
+
+a.userLink {
+    width: 180px;
+    height: 40px;
+    display: table-cell;
+    vertical-align:middle;
+    text-align:center;
+    color: #777;
+    text-decoration: none;
+    
+    margin-left: auto;
+  margin-right: auto;
+}
+
+
+a.userLink:hover {
+    width: 190px;
+    height: 50px;
+    display: table-cell;
+    vertical-align:middle;
+    text-align:center;
+    color: #777;
+    text-decoration: none;
+    
+    margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+#button {
+    transition: width 0.2s ease;
+	display: inline-block;
+	width: 200px;
+    margin: auto;
+	
+}
+
+#button:hover {
+	display: inline-block;
+	width: 210px;
+	margin: auto;
+}
+
+
+
+
 
 /* Link to Documentation */
 #docs {
@@ -66,8 +199,8 @@ body {
 /* Type */
 /* Accent color */
 a {
-	text-decoration: none;
-	color: #5694f1;
+	text-decoration: underline;
+	color: #777;
 	font-weight: 400;
 }
 
@@ -97,6 +230,6 @@ p {
 }
 
 @media screen and (max-width:440px) {
-	#wrapper { padding:20px; }
+	#wrapper { padding:30px; }
 	#header { margin-bottom: 20px; }
 }
