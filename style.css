@@ -15,6 +15,10 @@ body {
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
 	color: #777;
+    
+    background-image: url("small.svg"); 
+    background-repeat: repeat;
+    
 }
 
 #wrapper {
