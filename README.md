@@ -13,6 +13,9 @@ App wrapper around [instagram.com](https://instagram.com). Generated with and [n
 At the moment, you can only upload .jpg photos/images. For some reason .png is not supported. 
 
 
+
+
+
 #### Download
 [Download it here!](https://github.com/LukaMarr/)<br>
 
