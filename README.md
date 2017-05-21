@@ -14,7 +14,7 @@ At the moment, you can only upload .jpg photos/images. For some reason .png is n
 
 
 #### Download
-> [Download it here!](https://github.com/LukaMarr/)<br>
+[Download it here!](https://github.com/LukaMarr/)<br>
 
 ![Instagram for Mac Icon](icon_small.png) <br>
 
