@@ -16,7 +16,7 @@ At the moment, you can only upload .jpg photos/images. For some reason .png is n
 
 ___
 
-[![Alt text](https://github.com/LukaMarr/Instagram-for-MacOS/blob/master/Button.png)](https://github.com/LukaMarr/Instagram-for-MacOS)
+[![](https://github.com/LukaMarr/Instagram-for-MacOS/blob/master/Button.png)](https://github.com/LukaMarr/Instagram-for-MacOS)
 
 ---
 
