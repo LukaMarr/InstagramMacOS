@@ -5,12 +5,21 @@ App wrapper around [instagram.com](https://instagram.com). Generated with and [n
 
 ___
 
-#### You can:
+#### Features:
 
 - [x] Upload photos (.jpg) 
 - [x] Edit profile 
 - [x] View feed, profile, likes
 - [x] Search users, tags, places
+- [ ] Upload multiple photos as photo gallery post
+
+
+
+
+
+
+
+
 
 At the moment, you can only upload .jpg photos/images. For some reason .png is not supported. 
 
