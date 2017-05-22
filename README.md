@@ -38,4 +38,8 @@ ___
 
 This is not an official Instagram product. Instagram logo by amazing [Instagram Design](https://dribbble.com/instagram) crew. <br> 
 
-Made with ❤️ & ☕️. 
+Thanks for help: [Mihael](https://dribbble.com/mihaelmiklosic) & [Jiahao](https://twitter.com/jiahaog)
+
+
+
+Made with ❤️ & ☕️ & 💩 & 🌵 & 🐶. 
