@@ -36,10 +36,12 @@ ___
 
 ![Icon in dock](icon_dock.png)
 
-This is not an official Instagram product. Instagram logo by amazing [Instagram Design](https://dribbble.com/instagram) crew. <br> 
 
+## Thanks
 Thanks for help: [Mihael](https://dribbble.com/mihaelmiklosic) & [Jiahao](https://twitter.com/jiahaog)
 
+## Legal
+This code is in no way affiliated with, authorised, maintained, sponsored or endorsed by Instagram or any of its affiliates or subsidiaries. This is an independent and unofficial. Use at your own risk.
 
 
 Made with ❤️ & ☕️ & 💩 & 🌵 & 🐶. 
